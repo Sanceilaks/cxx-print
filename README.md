@@ -12,3 +12,5 @@ Or u can use additional parameters:
     vptr::print("First", "Second", vptr::Separator{ "_" }, vptr::EndLine{ "\n____" }, vptr::Output{ out });
     // out => First_Second\n____
 ```
+
+Written using templates and compile-time expressions
