@@ -2,6 +2,7 @@
 
 #include <string>
 #include <iostream>
+#include <ostream>
 
 namespace vptr {
     struct Separator {
