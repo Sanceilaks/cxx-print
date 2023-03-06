@@ -3,6 +3,7 @@
 #include <string>
 #include <iostream>
 #include <ostream>
+#include <functional>
 
 namespace vptr {
     struct Separator {
