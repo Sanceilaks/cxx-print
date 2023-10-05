@@ -1,3 +1,4 @@
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
 # Python-like C++ print function
 An a simple C++ analog of python `print()` function.
 Usage:
